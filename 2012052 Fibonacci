@@ -9,7 +9,6 @@ void fun(void);
 int main()
 {
 	int num,i,j,tag=0;
-	// clrscr();
 	for(i=0;i<max;i++)
 		arr1[i]=arr2[i]=result[i]=0;
 
@@ -43,7 +42,6 @@ int main()
 	}
 
 
-	getch();
 	return 1;
 }
 

@@ -1,6 +1,5 @@
 
 #include<stdio.h>
-#include<conio.h>
 #define max 5000
 
 int arr1[max],arr2[max],result[max];

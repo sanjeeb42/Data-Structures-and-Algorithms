@@ -43,8 +43,14 @@ int main()
     {
         printf("%d\t", arr[i]);
     }
+
     printf("\n");
+    if (rows* columns != n)
+    {
+        printf("2D array cannot be formed\n");
+    }
     convert_1D_to_2D(arr, rows, columns);
 
     return 0;
 }
+

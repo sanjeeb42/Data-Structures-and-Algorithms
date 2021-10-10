@@ -11,7 +11,7 @@ int main()
     int i = 0;
     while (num[i++] != '\0')
     { // A number is floating point only if there is a number after .
-        //else not a floating point number
+        //else not a valid floating point number
         if (num[i] == '.')
         {
             flag = 1;

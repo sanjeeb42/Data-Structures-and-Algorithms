@@ -3,6 +3,7 @@
 #include <stdlib.h>
 
 //Logic for selection sort
+//function for selection sort
 
 void selectionsort(long long int a[], long long int n)
 {

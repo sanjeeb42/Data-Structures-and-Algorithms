@@ -1,3 +1,4 @@
+// Not Exculisvely checking .com , .org or .net
 #include <stdio.h>
 #include <string.h>
 

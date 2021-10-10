@@ -18,6 +18,7 @@ int main()
             break;
         }
     }
+    // Checking if number is floating point or not
     if (flag)
     {
         printf(" Given Input is a Valid Floating point No");

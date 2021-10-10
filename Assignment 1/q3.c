@@ -45,7 +45,7 @@ int main()
     }
 
     printf("\n");
-    if (rows* columns != n)
+    if (rows* columns != n)// Checking if no of elements of both array are same or not
     {
         printf("2D array cannot be formed\n");
     }

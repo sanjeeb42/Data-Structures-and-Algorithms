@@ -10,7 +10,8 @@ int main()
     length = strlen(num);
     int i = 0;
     while (num[i++] != '\0')
-    { // A number is floating point only if there is anumber after .
+    { // A number is floating point only if there is a number after .
+        //else not a floating point number
         if (num[i] == '.')
         {
             flag = 1;
@@ -19,10 +20,10 @@ int main()
     }
     if (flag)
     {
-        printf("Valid Floating point No");
+        printf(" Given Input is a Valid Floating point No");
     }
     else
     {
-        printf("Invalid Floating point No");
+        printf("Given input is an Invalid Floating point No");
     }
 }

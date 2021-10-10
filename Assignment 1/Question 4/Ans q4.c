@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 
-//Logic for selection sort
+//Logic for selection sort is to swap min  element with 1st element
 //function for selection sort
 
 void selectionsort(long long int a[], long long int n)
@@ -30,7 +30,8 @@ void selectionsort(long long int a[], long long int n)
     return;
 }
 
-//Logic for buuble sort
+//Logic for buuble sort is to find min element and move it to extreme left
+//function for buuble sort
 
 void bubblesort(long long int a[], long long int n)
 {

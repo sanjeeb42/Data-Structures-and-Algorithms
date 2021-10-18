@@ -8,24 +8,15 @@ CSE Sec-A<br>
 Course Code: CS 201<br>
 Department of Computer Science and Engineering,<br>
 National Institute of Technology Silchar<br>
-  Since ancient times, the ability to represent numbers and perform arithmetic operations on numbers <br>
-<br>
-played an important role. Hence, it is interesting to study how different representation formats 
-<br>
-impact the number representation and operations. In this experiment, we study the efficacy of 
-<br>
-various number representation formats. The central message of this experiment is to appreciate that 
-<br>
-something that is as common as operating on numbers has an embedded data structure lesson. In 
-<br>
-this experiment, we will first understand how operations such as addition and multiplication can be 
-<br>
-done in various formats. We focus on four formats: unary, binary, decimal, and Roman. In each of 
-<br>
-these four representation formats, we will learn how to perform the above two operations. You can 
-<br>
-look at the lecture notes, browse through slides, and also see an animation that can run several 
-<br>
+  Since ancient times, the ability to represent numbers and perform arithmetic operations on numbers <br><br>
+played an important role. Hence, it is interesting to study how different representation formats <br>
+impact the number representation and operations. In this experiment, we study the efficacy of <br>
+various number representation formats. The central message of this experiment is to appreciate that <br>
+something that is as common as operating on numbers has an embedded data structure lesson. In <br>
+this experiment, we will first understand how operations such as addition and multiplication can be <br>
+done in various formats. We focus on four formats: unary, binary, decimal, and Roman. In each of <br>
+these four representation formats, we will learn how to perform the above two operations. You can <br>
+look at the lecture notes, browse through slides, and also see an animation that can run several <br>
 examples. 
 <br>
 1. The Hindu/Arabic System : This is also known as the decimal system and is presently in <br>

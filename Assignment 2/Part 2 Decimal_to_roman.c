@@ -1,4 +1,4 @@
-// Convert to roman
+// Convert to roman number
 
 #include <stdio.h>
 

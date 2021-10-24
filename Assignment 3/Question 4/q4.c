@@ -11,7 +11,7 @@ void InsertItemAtLast(int A[], int n, int key) {
   A[n] = key;
 }
 
-//Solution to part b
+//Solution to part b 
 void InsertItemAtFirst(int A[], int n, int key) {
   A = (int*) realloc(A, n+1);
 

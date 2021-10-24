@@ -1,4 +1,4 @@
-1.# Data-Structures-and-Algorithms
+Data-Structures-and-Algorithms
 
 ASSiGNMENT 3
 

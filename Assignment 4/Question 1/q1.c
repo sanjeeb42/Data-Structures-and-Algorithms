@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #define MAXIMUM 200
 
 long long int Calculate_Hash(char input[MAXIMUM])
